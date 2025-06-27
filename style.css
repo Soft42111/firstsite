@@ -1,0 +1,22 @@
+h4 {
+    color: #a455ed;
+    font-size: 19px;
+}
+h1 {
+    text-align:center;
+    color: #a455ed;
+}
+body {
+  background-image: url('background.avif');
+}
+p {
+    font-size: 20px;
+    color: #ffff;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45px;
+} 
